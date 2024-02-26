@@ -13,8 +13,8 @@
   },
   
   "Player":{
-    "external_player": false,
-    "external_player_id": "com.codat.ytvplayer" 
+    "external_player": true,
+    "external_player_id": "com.sPlayer.video" 
   },
   
   "ads": {
