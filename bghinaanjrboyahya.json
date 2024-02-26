@@ -5,7 +5,7 @@
   },
   "appConfig": {
     "PANEL_URL": "https://yassirtv.com/YacineTVV",
-    "PANEL_URL_REDIRECTION": "https://yassirtv.com/YacineTVV",
+    "PANEL_URL_REDIRECTION": "https://yacine.souhail-tv.com",
     "BLACK_LIST": "es,ma",
     
     "onesignal_id": "xxxxxxxxxxxxxxxxxxxxx",
