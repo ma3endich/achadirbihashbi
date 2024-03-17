@@ -5,16 +5,16 @@
   },
   "appConfig": {
     "PANEL_URL": "https://yassirtv.com/YacineTVV",
-    "PANEL_URL_REDIRECTION": "https://yacine.souhail-tv.com",
+    "PANEL_URL_REDIRECTION": "https://yassirtv.com/YacineTVV",
     "BLACK_LIST": "dz,cv,cm,ao,iq,ci,eg,fr,gh,ke,kw,lb,ml,na,ne,ng,om,pt,ru,sn,za,tn,ye,za,zw,mu,jo,ga,bj,ba,bw,bf,be,ma",
     
-    "onesignal_id": "xxxxxxxxxxxxxxxxxxxxx",
+    "onesignal_id": "xxxxxxxxxxxxxxxxxxxxxhttps://yacine.souhail-tv.com",
     "privacy_policy": "https://sites.google.com/view/yacine-tv-youness"
   },
   
   "Player":{
-    "external_player": true,
-    "external_player_id": "com.ysn.player" 
+    "external_player": false,
+    "external_player_id": "com.splayer.video" 
   },
   
   "ads": {
