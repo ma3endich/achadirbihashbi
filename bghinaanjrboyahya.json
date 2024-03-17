@@ -14,7 +14,7 @@
   
   "Player":{
     "external_player": true,
-    "external_player_id": "com.ysn.player" 
+    "external_player_id": "com.splayer.video" 
   },
   
   "ads": {
