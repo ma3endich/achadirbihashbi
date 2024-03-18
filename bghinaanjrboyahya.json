@@ -14,7 +14,7 @@
   
   "Player":{
     "external_player": true,
-    "external_player_id": "com.f.player" 
+    "external_player_id": "com.MAROUANE.player" 
   },
   
   "ads": {
