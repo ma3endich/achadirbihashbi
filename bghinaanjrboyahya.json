@@ -22,18 +22,18 @@
     "id": 1,
     "status": "false",
     
-    "networkSplash" :"fan/admob/applovin",
-    "admob_interstitial_splash": "ca-app-pub-xx/1033173712",
-    "fan_interstitial_splash": "IMG_16_9_APP_INSTALL#xx",
+    "networkSplash" :"admob",
+    "admob_interstitial_splash": "ca-app-pub-2616067820237387/8949767560",
+    "fan_interstitial_splash": "IMG_16_9_APP_INSTALL#xxfan/admob/applovin",
     "applovin_interstitial_splash": 0,
     
     
-    "network" : "admobwmakaynch",
-    "interstitial_interval": 10,
+    "network" : "admob",
+    "interstitial_interval": 2,
     
-    "admob_banner": "ca-app-pub-xx/6300978111",
-    "admob_interstitial": "ca-app-pub-xx/1033173712",
-    "admob_native": "ca-app-pub-xx/2247696110",
+    "admob_banner": "ca-app-pub-2616067820237387/6813778564",
+    "admob_interstitial": "ca-app-pub-2616067820237387/8949767560",
+    "admob_native": "ca-app-pub-2616067820237387/3976642489",
     
     "fan_banner": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
     "fan_interstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
