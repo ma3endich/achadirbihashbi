@@ -20,7 +20,7 @@
   "ads": {
       
     "id": 1,
-    "status": "false",
+    "status": "true",
     
     "networkSplash" :"admob",
     "admob_interstitial_splash": "ca-app-pub-2616067820237387/8949767560",
